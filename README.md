@@ -1,1 +1,1 @@
-this is my shell directory
+this is my betty assingment in shell permission
