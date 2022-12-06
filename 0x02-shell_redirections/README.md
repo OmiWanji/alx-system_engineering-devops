@@ -7,3 +7,4 @@ ihave added a 3-twofiles
 i have a added a 4-lastlines
  i added a 6-third_line file 
 i have added a new file 8-cwd_state
+i have added a new file 9-duplicate_last_line
