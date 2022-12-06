@@ -5,3 +5,4 @@ i added a 1-confused_smiley file
  i have added the 2-hellofile
 ihave added a 3-twofiles
 i have a added a 4-lastlines
+ i added a 6-third_line file 
