@@ -18,3 +18,4 @@ added 14-findthatword
 added 15-countthatword
 added 16-whatsnext
 added 17-hidethisword
+added 18-letteronly
