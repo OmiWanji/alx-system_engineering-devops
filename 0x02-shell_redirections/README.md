@@ -17,3 +17,4 @@ added 13-unique
 added 14-findthatword
 added 15-countthatword
 added 16-whatsnext
+added 17-hidethisword
