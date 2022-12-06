@@ -22,3 +22,4 @@ added 18-letteronly
 file that Replace all characters A and c from input to Z and e respectively.
 Write a script that reverse its input.
 Create a script that removes all letters c and C from input.
+added 22-users_and_homes
