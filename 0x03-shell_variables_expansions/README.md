@@ -11,3 +11,4 @@ script that prints the results of power divided by divided
 script that displays the breath to the power of love
 Write a script that prints a number with two decimal places, followed by a new line.
 Write a script that converts a number from base 10 to base 16.
+script that encodes and decodes text using the rot13 encryption. Assume ASCII.
