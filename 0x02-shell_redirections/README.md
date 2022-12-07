@@ -24,3 +24,4 @@ Write a script that reverse its input.
 Create a script that removes all letters c and C from input.
 added 22-users_and_homes
 command that finds all empty files and directories in the current directory and all sub-directories.
+ script that lists all the files with a .gif extension in the current directory and all its sub-directories.
