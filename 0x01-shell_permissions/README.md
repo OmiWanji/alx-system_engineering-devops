@@ -10,3 +10,4 @@ added 5-execute
 9-John_Doe
 11-directories_permissions
 10-mirror_permissions
+12-directory_permissions
