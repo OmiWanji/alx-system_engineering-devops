@@ -13,3 +13,4 @@ added 5-execute
 12-directory_permissions
 13-change_group
 
+101-symbolic_link_permissions
